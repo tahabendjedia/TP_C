@@ -1,0 +1,13 @@
+Algiers Blida 50 Boumerdes 30  
+Blida Medea 40  
+Boumerdes Tizi_Ouzou 35  
+Tizi_Ouzou Bejaia 60  
+Bejaia Setif 70  
+Setif Bordj_Bou_Arreridj 20  
+Medea Djelfa 90  
+Djelfa Laghouat 80  
+Laghouat Ghardaia 100  
+Ghardaia Ouargla 120  
+Ouargla Hassi_Messaoud 150  
+Hassi_Messaoud In_Salah 200  
+In_Salah Tamanrasset 250  
